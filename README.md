@@ -6,10 +6,12 @@ vcftocsv       https://hub.docker.com/repository/docker/mshumilova/vcftocsv/gene
 
 vcftocsv_vep   https://hub.docker.com/repository/docker/mshumilova/vcftocsv_vep/general
 
+__________________________________________________________________________________________
 
 To test vcftocsv converter
    
     Download "test.vcf"
+__________________________________________________________________________________________
   
 To test vcftocsv_vep converter
 
