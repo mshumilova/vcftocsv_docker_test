@@ -2,7 +2,8 @@
 __________________________________________________________________________________________
 To test vcftocsv converter
    
-    Download "test.vcf"
+    1. Download "test.vcf"
+    2. Follow the guide on Docker Hub
 
 __________________________________________________________________________________________
 Please find the details about annotators on Docker Hub
