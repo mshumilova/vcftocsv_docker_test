@@ -8,8 +8,9 @@ To test vcftocsv_vep converter
 
     Download "test_vep.vcf"
 
-To convert file without annotation, please use vcftocsv converter.
-To convert VEP annotated file, please use vcftocsv_vep converter.
+To convert files without annotation, please use vcftocsv converter.
+
+To convert VEP annotated files, please use vcftocsv_vep converter.
 
 Please find the details on Docker Hub
 vcftocsv       https://hub.docker.com/repository/docker/mshumilova/vcftocsv/general
