@@ -1,7 +1,10 @@
 
-To test vcftocsv converter https://hub.docker.com/repository/docker/mshumilova/vcftocsv/general
+To test vcftocsv converter
    
-    download "test.vcf"
+    1. Download "test.vcf"
+    2. Follow the guide on Docker Hub https://hub.docker.com/repository/docker/mshumilova/vcftocsv/general
+
+    
    
 
 
