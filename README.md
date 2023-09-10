@@ -1,4 +1,4 @@
-.VCF to .CSV CONVERTER
+.VCF to .CSV CONVERTERS
 
 Please check information about the converters on Docker Hub.
 1. vcftocsv converter
