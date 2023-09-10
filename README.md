@@ -1,4 +1,4 @@
-.VCF to .CSV CONVERTERS TEST FILES
+.VCF to .CSV CONVERTER TEST FILE
 __________________________________________________________________________________________
 Please find the details about annotators on Docker Hub
 
