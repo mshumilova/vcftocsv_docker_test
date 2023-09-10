@@ -1,12 +1,4 @@
-.VCF to .CSV CONVERTERS
-
-Please check information about the converters on Docker Hub.
-1. vcftocsv 
-   
-   https://hub.docker.com/repository/docker/mshumilova/vcftocsv/general
-3. vcftocsv_vep 
-   
-   https://hub.docker.com/repository/docker/mshumilova/vcftocsv_vep/general
+.VCF to .CSV CONVERTERS TEST FILES
 
 To test vcftocsv converter
    
@@ -14,8 +6,13 @@ To test vcftocsv converter
     2. Follow the guide on Docker Hub (the link below)
    https://hub.docker.com/repository/docker/mshumilova/vcftocsv/general
 
+To test vcftocsv_vep converter
+
+    1. Download "test_vep.vcf"
+    2. Follow the guide on Docker Hub (the link below)
+   https://hub.docker.com/repository/docker/mshumilova/vcftocsv_vep/general
     
-   
+Please find the details on Docker Hub
 
 
 
