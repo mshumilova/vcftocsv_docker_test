@@ -8,7 +8,7 @@ To test vcftocsv converter
 __________________________________________________________________________________________
 Please find the details about annotators on Docker Hub
 
-vcftocsv       https://hub.docker.com/repository/docker/mshumilova/vcftocsv/general
+vcftocsv       https://hub.docker.com/r/mshumilova/vcftocsv
 
-vcftocsv_vep   https://hub.docker.com/repository/docker/mshumilova/vcftocsv_vep/general
+vcftocsv_vep   https://hub.docker.com/r/mshumilova/vcftocsv_vep
 __________________________________________________________________________________________
