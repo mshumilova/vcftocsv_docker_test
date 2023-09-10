@@ -1,8 +1,12 @@
 .VCF to .CSV CONVERTER
 
-Please check information about the converter on Docker Hub.
-1. vcftocsv converter (https://hub.docker.com/repository/docker/mshumilova/vcftocsv/general)
-2. vcftocsv_vep converter (https://hub.docker.com/repository/docker/mshumilova/vcftocsv_vep/general)
+Please check information about the converters on Docker Hub.
+1. vcftocsv converter
+   
+   https://hub.docker.com/repository/docker/mshumilova/vcftocsv/general
+3. vcftocsv_vep converter
+   
+   https://hub.docker.com/repository/docker/mshumilova/vcftocsv_vep/general
 
 To test vcftocsv converter
    
